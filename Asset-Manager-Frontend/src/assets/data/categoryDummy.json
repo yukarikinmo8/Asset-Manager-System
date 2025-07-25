@@ -1,0 +1,22 @@
+[
+    {
+        "name": "laptop",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/cheapgaminglaptops-2048px-7981.jpg"
+    },
+    {
+        "name": "projector",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2021/06/living-room-projector-2048px-1933-3x2-1.jpg?auto=webp&quality=75&crop=4:3,smart&width=1024"
+    },
+    {
+        "name": "camera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11HWsgEwz6Ndl_JHfNSYpWL32KpiVKeWahg&s"
+    },
+    {
+        "name": "smartphone",
+        "image": "https://i.guim.co.uk/img/media/2ce8db064eabb9e22a69cc45a9b6d4e10d595f06/392_612_4171_2503/master/4171.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=45b5856ba8cd83e6656fbe5c166951a4"
+    },
+    {
+        "name": "others",
+        "image": "https://miro.medium.com/v2/resize:fit:766/1*AJsQfmW0lCCdpB-bSS_LCA.jpeg"
+    }
+]

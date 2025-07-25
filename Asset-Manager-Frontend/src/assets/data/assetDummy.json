@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Dell Inspiron 15",
+        "description": "This 15-inch laptop features an Intel i5 processor and comes equipped with 8GB of RAM, making it suitable for everyday computing tasks such as browsing, office work, and media consumption.",
+        "category": "Laptops",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 799.99
+    },
+    {
+        "id": 2,
+        "name": "Epson Projector X120",
+        "description": "HD projector with HDMI input and 3000 lumens brightness.",
+        "category": "Projectors",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 499.99
+    },
+    {
+        "id": 3,
+        "name": "Samsung 24\" Monitor",
+        "description": "Full HD monitor with IPS display and 75Hz refresh rate.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 199.99
+    },
+    {
+        "id": 4,
+        "name": "Canon EOS 90D",
+        "description": "DSLR camera with 32.5MP resolution and 4K video support.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 1299.99
+    },
+    {
+        "id": 5,
+        "name": "JBL Bluetooth Speaker",
+        "description": "Portable speaker with deep bass and 12 hours of playtime.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 89.99
+    },
+    {
+        "id": 6,
+        "name": "Apple Watch Series 8",
+        "description": "Smartwatch with fitness tracking and health monitoring.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 399.99
+    },
+    {
+        "id": 7,
+        "name": "iPhone 14 Pro",
+        "description": "Latest Apple smartphone with A16 chip and dynamic island.",
+        "category": "Smartphones",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 999.99
+    },
+    {
+        "id": 8,
+        "name": "Tripod Stand",
+        "description": "Adjustable tripod for DSLR and mirrorless cameras.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 49.99
+    },
+    {
+        "id": 9,
+        "name": "HP Pavilion 14",
+        "description": "Compact laptop with Ryzen 5 CPU and 512GB SSD.",
+        "category": "Laptops",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 699.99
+    },
+    {
+        "id": 10,
+        "name": "BenQ EX3501R",
+        "description": "Ultra-wide curved monitor ideal for productivity.",
+        "category": "Others",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "price": 899.99
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Dell Inspiron 15",
+        "employee": "Alice Santos",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "startDate": "2025-06-25T00:00:00.000Z",
+        "date": "2025-07-01T00:00:00.000Z",
+        "price": 799.99,
+        "category": "Laptops",
+        "inventoryStatus": "Confirmed"
+    },
+    {
+        "name": "Epson Projector X120",
+        "employee": "Brent Villanueva",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "startDate": "2025-06-28T00:00:00.000Z",
+        "date": "2025-07-02T00:00:00.000Z",
+        "price": 499.99,
+        "category": "Projectors",
+        "inventoryStatus": "Pending"
+    },
+    {
+        "name": "Samsung 24\" Monitor",
+        "employee": "Carla Reyes",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "startDate": "2025-06-15T00:00:00.000Z",
+        "date": "2025-06-25T00:00:00.000Z",
+        "price": 199.99,
+        "category": "Others",
+        "inventoryStatus": "Returned"
+    },
+    {
+        "name": "Canon EOS 90D",
+        "employee": "Daniel Cruz",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "date": "2025-07-03T00:00:00.000Z",
+        "price": 1299.99,
+        "category": "Others",
+        "inventoryStatus": "Confirmed"
+    },
+    {
+        "name": "JBL Bluetooth Speaker",
+        "employee": "Ella De Vera",
+        "image": "https://ionicframework.com/docs/img/demos/thumbnail.svg",
+        "startDate": "2025-06-26T00:00:00.000Z",
+        "date": "2025-06-30T00:00:00.000Z",
+        "price": 89.99,
+        "category": "Others",
+        "inventoryStatus": "Pending"
+    }
+]
